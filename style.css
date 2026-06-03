@@ -20,7 +20,7 @@ body {
 
 
 nav {
-  background-image: url('back_png.jpg');
+  background-image: url('IMAGENS/back.png.jpg');
   background-size: cover;
   background-position: center;
   padding: 15px 30px;
@@ -61,7 +61,7 @@ nav ul a:hover {
 .hero {
   text-align: center;
   padding: 60px 20px;
-  background-image: url(background.jpg);
+  background-image: url('IMAGENS/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
